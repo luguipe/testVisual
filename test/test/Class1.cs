@@ -8,4 +8,4 @@ namespace test
     public class Class1
     {
     }
-}
+}//j
